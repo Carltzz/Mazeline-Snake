@@ -1,0 +1,7 @@
+# Root/source/Engine/IO/File
+
+set(IO_FILE_SOURCES
+	"${CMAKE_CURRENT_SOURCE_DIR}/File.cpp"
+	"${CMAKE_CURRENT_SOURCE_DIR}/File.h"
+	PARENT_SCOPE
+)

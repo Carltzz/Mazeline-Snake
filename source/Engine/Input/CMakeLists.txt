@@ -1,0 +1,5 @@
+set(INPUT_SOURCES
+	"${CMAKE_CURRENT_SOURCE_DIR}/InputManager.cpp"
+	"${CMAKE_CURRENT_SOURCE_DIR}/InputManager.h"
+	PARENT_SCOPE
+)
